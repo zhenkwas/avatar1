@@ -76,10 +76,7 @@ header {
     
 }
 
-.clan {
- 
 
-}
 
 .language .text {
     max-width: 1033px;
@@ -105,6 +102,10 @@ header {
        align-items: center;
        flex-direction: column;
 
+}
+
+.foto {
+     height: 741px;
 }
 
 .language h3 {
